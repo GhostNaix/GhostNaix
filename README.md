@@ -9,7 +9,6 @@ Studying CSEC @ <img alt="status github, commits, etc..." width="100px" src="Img
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?&style=for-the-badge&logo=mysql&logoColor=white&color=3280ad)
 ![Git](https://img.shields.io/badge/-Git-orange?&style=for-the-badge&logo=git&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-purple?&style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
